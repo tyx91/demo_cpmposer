@@ -1,0 +1,14 @@
+{
+    "name": "tyx91/demo_cpmposer",
+    "description": "this is a composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "田玉星",
+            "email": "tian.yuxing@scimall.org.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
